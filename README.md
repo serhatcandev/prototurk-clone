@@ -7,12 +7,13 @@
 
 🔵 Demo: https://prototurk-clone-zeta.vercel.app/
 
-🔵 Original website: https://kodluyoruz.org/tr/kodluyoruz/
+🔵 Original website: https://prototurk.com/
 
-🔵 Techs: HTML,CSS,JavaScript
+🔵 Techs: Tailwind
 
-🔵 Summary: I made the clone version of the kodluyoruz site to improve myself in HTML,CSS and JavaScript.
+🔵 Summary: I made the clone version of the prototurk site to improve myself in Tailwind.
 
-![image](https://user-images.githubusercontent.com/85739464/207124014-d1451c75-e460-4dfd-b8c8-dfcf292242d4.png)
+![image](https://user-images.githubusercontent.com/85739464/207124515-44a145ec-88e3-4a13-b0b8-9ef4c0c37752.png)
+
 
 
